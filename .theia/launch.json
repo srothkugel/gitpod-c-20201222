@@ -7,7 +7,7 @@
           "type": "gdb",
           "request": "launch",
           "name": "Launch Program",
-          "target": "./hello",
+          "target": "./.build/hello",
           "cwd": "${workspaceRoot}",
           "valuesFormatting": "parseText"
       }
